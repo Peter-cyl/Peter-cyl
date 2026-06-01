@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi, I'm Peter 👋
 
+Final-year BSc Artificial Intelligence student at King's College London,
+focused on data analysis and financial markets.
+
+- 🧠 Comfortable in Python (Pandas, NumPy, scikit-learn) and building/evaluating ML models
+- 📊 Interested in data analyst, quantitative, and fintech roles
+- 🎓 Final-year project: PlanVerb — natural language generation for explainable AI planning
+- 🌏 Based in Hong Kong | Multilingual (Cantonese, Mandarin, English)
+
+Currently strengthening my SQL and exploring data + finance.
 <!--
 
 
